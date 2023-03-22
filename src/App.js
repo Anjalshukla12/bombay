@@ -47,7 +47,7 @@ function App() {
     <BrowserRouter>
     
  <Routes>
-    <Route path = "/" element = {<Home></Home>}></Route>
+    <Route path = "/bombay" element = {<Home></Home>}></Route>
     <Route path = "/search/:query" element = {<SearchResults></SearchResults>}></Route>
 
     <Route path = "/:id" element = {<Details></Details>}></Route>
