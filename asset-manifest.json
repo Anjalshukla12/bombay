@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bombay/static/css/main.d150caf4.css",
+    "main.js": "/bombay/static/js/main.e5fd3e61.js",
+    "static/media/no-poster.png": "/bombay/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "index.html": "/bombay/index.html",
+    "main.d150caf4.css.map": "/bombay/static/css/main.d150caf4.css.map",
+    "main.e5fd3e61.js.map": "/bombay/static/js/main.e5fd3e61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d150caf4.css",
+    "static/js/main.e5fd3e61.js"
+  ]
+}
